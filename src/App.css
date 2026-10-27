@@ -1,0 +1,16 @@
+.cardContainer{
+  display: flex;
+  justify-content: center;
+}
+
+.pagination{
+  justify-content: center;
+  padding: 30px;
+}
+
+.breadcrumb{
+  color: black;
+  margin-left: 10px;
+  font-weight: bold;
+}
+
